@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/69fdf79676d7606335118eda/language-masters/en:/",
+    "/content/69fdf79676d7606335118eda/language-masters/en/:/en/",
+    "/content/69fdf79676d7606335118eda/language-masters/fr/:/fr/",
+    "/content/69fdf79676d7606335118eda/language-masters/fr:/fr",
+    "/content/69fdf79676d7606335118eda/language-masters/es/:/es/",
+    "/content/69fdf79676d7606335118eda/language-masters/es:/es",
+    "/content/69fdf79676d7606335118eda/language-masters/ja/:/ja/",
+    "/content/69fdf79676d7606335118eda/language-masters/ja:/ja",
+    "/content/69fdf79676d7606335118eda/language-masters/de/:/de/",
+    "/content/69fdf79676d7606335118eda/language-masters/de:/de",
+    "/content/69fdf79676d7606335118eda/configuration:/.helix/config.json",
+    "/content/69fdf79676d7606335118eda/metadata:/metadata.json",
+    "/content/69fdf79676d7606335118eda/redirects:/redirects.json",
+    "/content/69fdf79676d7606335118eda/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/69fdf79676d7606335118eda/",
+    "/content/dam/69fdf79676d7606335118eda/"
   ]
 }
